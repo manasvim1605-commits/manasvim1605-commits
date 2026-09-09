@@ -6,7 +6,11 @@ I am a **Computer Science graduate** currently pursuing my **Master of Computer 
 
 I completed my schooling at **Hutchings High School and Junior College** and earned my **B.Sc. in Computer Science** from **Nowrosjee Wadia College**.
 
-I enjoy **learning new technologies**, developing practical projects, and solving problems through code. I am particularly interested in **Artificial Intelligence and Machine Learning**, and I enjoy exploring how intelligent systems can be used to solve real-world problems. I am passionate about combining **technology, creativity, and AI** to build meaningful and engaging projects.
+I enjoy **learning new technologies**, developing practical projects, and solving problems through code. I am particularly interested in **Artificial Intelligence and Machine Learning** and enjoy exploring how intelligent systems can be used to solve real-world problems.
+
+I am passionate about combining **technology, creativity, and AI** to build meaningful, engaging, and practical projects.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -38,29 +42,32 @@ I enjoy **learning new technologies**, developing practical projects, and solvin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
+---
+
 ## 🌐 Web Development Internship
 
-During my **Web Development Internship**, I developed two websites using **HTML, CSS, and JavaScript**.
+During my **Web Development Internship**, I worked on a series of web development tasks using **HTML, CSS, and JavaScript**, progressing from a basic website to a complete restaurant website.
 
-### ☕ Cold Coffee Delight
+### ☕🍽️ Web Development Project — Cold Coffee Delight & Mavén Bistro
 
-A coffee-themed website designed with a focus on **clean design, structured layouts, and user-friendly interaction**.
+A **multi-stage web development project** that began with **Cold Coffee Delight**, a coffee-themed website, and evolved into **Mavén Bistro**, a modern restaurant website.
 
-**Tech Stack:**
-`HTML` `CSS` `JavaScript`
-
-### 🍽️ Mavén Bistro
-
-A modern **restaurant website** designed with an emphasis on **visual appeal, simple navigation, and an engaging user experience**.
+The project focused on developing **clean layouts, attractive UI designs, interactive features, simple navigation, and user-friendly experiences** using fundamental web technologies.
 
 **Tech Stack:**
 `HTML` `CSS` `JavaScript`
+
+🔗 **[Explore the Web Development Project →](https://github.com/manasvim1605-commits/MyFirstWebsite)**
+
+---
 
 ## 🤖 Data Science, Machine Learning & AI
 
-As part of my **Data Science & Machine Learning Internship at Oasis Infobyte**, I worked on practical projects involving **data analysis, visualization, and machine learning**.
+As part of my **Data Science & Machine Learning Internship at Oasis Infobyte**, I worked on practical projects involving **data analysis, data visualization, and machine learning**.
 
-I am also interested in **Artificial Intelligence** and its applications in areas such as **intelligent automation, predictive systems, data-driven decision making, and AI-powered applications**. I am continuously exploring AI concepts and looking forward to building projects that combine **AI with software development**.
+I am also interested in **Artificial Intelligence** and its applications in areas such as **intelligent automation, predictive systems, data-driven decision making, and AI-powered applications**.
+
+I am continuously exploring AI concepts and looking forward to building projects that combine **Artificial Intelligence, Machine Learning, and Software Development** to create smarter and more practical solutions.
 
 ### 🌸 Iris Classification
 
@@ -85,6 +92,8 @@ A **Machine Learning project** that analyzes advertising data and predicts sales
 
 🔗 **[Explore my Data Science & Machine Learning Projects →](https://github.com/manasvim1605-commits/OIBSIP)**
 
+---
+
 ## 🎯 Areas of Interest
 
 ![Software Development](https://img.shields.io/badge/Software%20Development-6A5ACD?style=flat-square)
@@ -95,6 +104,8 @@ A **Machine Learning project** that analyzes advertising data and predicts sales
 ![Game Development](https://img.shields.io/badge/Game%20Development-E91E63?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-8E44AD?style=flat-square)
 
+---
+
 ## 🚀 Currently Exploring
 
 I am continuously improving my **programming, development, and problem-solving skills** while exploring emerging technologies.
@@ -103,21 +114,30 @@ My current areas of focus include:
 
 > 💻 **Software Development** • 🤖 **Artificial Intelligence & Machine Learning** • 📊 **Data Science** • 🎮 **Game Development** • 🌐 **Web Technologies**
 
-I am particularly interested in **AI and Machine Learning**, and I want to explore how intelligent technologies can be integrated into software applications to create **smarter, more efficient, and practical solutions**.
+I am particularly interested in **Artificial Intelligence and Machine Learning**, and I want to explore how intelligent technologies can be integrated into software applications to create **smarter, more efficient, and practical solutions**.
+
+I also enjoy exploring the creative side of technology and hope to build projects that bring together **AI, software development, and creativity**.
+
+---
 
 ## 📂 Featured Projects
 
-| 🗂️ Project                  | 💻 Technologies             |
-| :--------------------------- | :-------------------------- |
-| ☕ **Cold Coffee Delight**    | `HTML` `CSS` `JavaScript`   |
-| 🍽️ **Mavén Bistro**         | `HTML` `CSS` `JavaScript`   |
-| 🌸 **Iris Classification**   | `Python` `Machine Learning` |
-| 📈 **Unemployment Analysis** | `Python` `Data Analysis`    |
-| 💰 **Sales Prediction**      | `Python` `Machine Learning` |
+| 🗂️ Project                                                   | 💻 Technologies             |
+| :------------------------------------------------------------ | :-------------------------- |
+| ☕🍽️ **Web Development — Cold Coffee Delight & Mavén Bistro** | `HTML` `CSS` `JavaScript`   |
+| 🌸 **Iris Classification**                                    | `Python` `Machine Learning` |
+| 📈 **Unemployment Analysis**                                  | `Python` `Data Analysis`    |
+| 💰 **Sales Prediction**                                       | `Python` `Machine Learning` |
+
+---
 
 ## 🌱 My Goal
 
-> **To continuously learn, build, and grow as a developer while exploring Artificial Intelligence and emerging technologies, and create innovative, meaningful solutions through technology and creativity.**
+> **To continuously learn, build, and grow as a developer while exploring Artificial Intelligence and emerging technologies, and create innovative and meaningful solutions through technology and creativity.**
+
+I aim to keep expanding my knowledge across **Software Development, AI, Machine Learning, Data Science, and Web Technologies**, while gaining hands-on experience by building practical projects.
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
